@@ -1,0 +1,8 @@
+Raspbian version: Buster
+openCV version: 4.1.0 
+
+to get openCV on raspbian Buster:
+https://gist.github.com/willprice/abe456f5f74aa95d7e0bb81d5a710b60
+
+An overview of servos implementation on raspberry pi
+https://www.electronicshub.org/raspberry-pi-servo-motor-interface-tutorial/
